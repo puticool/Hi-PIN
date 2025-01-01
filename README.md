@@ -7,6 +7,7 @@
 
 ✔️ Auto upgrade
 
+✔️ Multi-threading support
 
 # 🛠️ Instructions:
 
@@ -42,3 +43,7 @@ noproxy:
 proxy:
 
 `node pinai-proxy.js`
+
+multi-threading + proxy:
+
+`node pinai-thread.js`
